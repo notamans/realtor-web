@@ -41,7 +41,6 @@ export default function RootLayout({
       >
         {children}
       </body>
-      <div id="ixhello-root"></div>
       <Script
         id="ixhello-chat-widget"
         src="https://d3at15qgbg1tx6.cloudfront.net/chat-widget/assets/chat-widget.js"
